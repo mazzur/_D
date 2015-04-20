@@ -1,0 +1,25 @@
+{
+  "name": "_D",
+  "version": "0.1.0",
+  "main": "dist/_D.js",
+  "homepage": "https://github.com/mazzur/_D",
+  "authors": [
+    "mazzur <mazzur55@gmail.com>"
+  ],
+  "description": "tiny js lib for working with DOM",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "Gulpfile.js",
+    "package.json",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "keywords": [
+    "DOM",
+    "javascript",
+    "library"
+  ]
+}
