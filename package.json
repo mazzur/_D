@@ -1,11 +1,15 @@
 {
   "name": "_D",
   "version": "0.0.1",
-  "description": "javascript DOM library",
-  "main": "lib/D.js",
+  "description": "tine javascript DOM library",
+  "main": "lib/_D.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "mazzur",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.8.11"
+  }
 }
