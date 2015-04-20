@@ -1,7 +1,7 @@
 {
   "name": "_D",
   "version": "0.1.0",
-  "main": "dist/_D.js",
+  "main": "_D.js",
   "homepage": "https://github.com/mazzur/_D",
   "authors": [
     "mazzur <mazzur55@gmail.com>"
